@@ -1,3 +1,5 @@
+Link :- https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/
+
 Intution :- 
   There will be at least one node in the tree accordin to the constraints.
   Given that there is one node the initial vacancy will be 1.
